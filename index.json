@@ -1,8 +1,8 @@
 {
   "$schema": "qa-reports-index/v1",
   "main": {
-    "sha": "2243eb7ce1830480beb99811f0340258c293aaa9",
-    "written_at": "2026-10-31T17:31:54.168Z"
+    "sha": "28731ee3a194ed5cc4ec3979436fe8e217b11a61",
+    "written_at": "2026-11-03T18:48:16.122Z"
   },
   "pr": {
     "2626": {
